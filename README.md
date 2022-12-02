@@ -8,3 +8,10 @@
 
 
 --> DATA FILE(KA AND KHA):--- [KA AND KHA](https://github.com/rockerritesh/1st-project-NEPAL-Nepali_devanagari_Classifier-Ka-Kha-Ga---Ek-Dui-Tin-/tree/master/fata#)
+
+
+
+```
+MLP = 0.91
+Machine Learning = 0.89
+```
