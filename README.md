@@ -12,6 +12,7 @@
 
 
 ```
+CNN = 0.949
 MLP = 0.91
 Machine Learning = 0.89
 ```
